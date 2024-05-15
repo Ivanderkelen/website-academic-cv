@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Inne Vanderkelen # Website name
-baseURL: 'innevanderkelen.com' # Website URL
+baseURL: 'innevanderkelen.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
