@@ -82,6 +82,6 @@ I obtained my PhD at the [Department of Hydrology and Hydraulic Engineering](htt
 
 In my postdoctoral position at the [Wyss Academy for Nature at the University of Bern](https://www.wyssacademy.org/) and the [Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/), I studied the potential hydrological co-benefits of nature-based approaches, which play a key role in climate mitigation and adaptation. 
 
-{{< icon name="download" pack="fas" >}}. Download my PhD thesis {{< staticref "uploads/Vanderkelen_Inne_PhD_Thesis.pdf" "newtab" >}} here{{< /staticref >}}.
+Download my PhD thesis {{< staticref "uploads/Vanderkelen_Inne_PhD_Thesis.pdf" "newtab" >}} here{{< /staticref >}}{{< icon name="download" pack="fas" >}} .
 
 <meta name="google-site-verification" content="3LcHt_Yj7nMzSXDZ5a-n3OPBpiknYCwWDyOUg4sxBlo" />
