@@ -23,7 +23,7 @@ interests:
 - Regional Climate Modelling
 - Climate extremes
 - Climate impacts
-- Adaptation options
+- Adaptation
 
 
 
