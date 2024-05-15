@@ -27,7 +27,7 @@ content:
   #    captcha: true
 
   # Contact details (edit or remove options as required)
-   email: inne.vanderkelen [at] wyssacademy.org
+   email: inne.vanderkelen [at] kuleuven.be
 
   # phone: 888 888 88 88
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2

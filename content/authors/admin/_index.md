@@ -48,18 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ivanderkelen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.be/citations?user=CDK0OBAAAAAJ&hl=nl
 - icon: github
   icon_pack: fab
   link: https://github.com/Ivanderkelen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/inne-vanderkelen/
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.be/citations?user=CDK0OBAAAAAJ&hl=nl
 - icon: cv
   icon_pack: ai
   link: uploads/CV_website.pdf
