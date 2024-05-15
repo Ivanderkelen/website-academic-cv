@@ -81,13 +81,8 @@ I'm a climate scientist, interested in the intersection of climate modelling, ex
 
 In my research, I employ modelling techniques, like the COSMO-CLM and ALARO regional climate models. In the past I heavily used [Community Earth System Model](https://www.cesm.ucar.edu/), its land model [Community Terrestrial Systems Model](https://www.cesm.ucar.edu/models/cesm2/land/), and the river-routing model mizuRoute as well as impact models from the [ISIMIP project](https://www.isimip.org/).  
 
-In my postdoctoral position at the [Wyss Academy for Nature at the University of Bern](https://www.wyssacademy.org/) and the [Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/), I study the potential hydrological co-benefits of nature-based approaches, which play a key role in climate mitigation and adaptation. 
+In my postdoctoral position at the [Wyss Academy for Nature at the University of Bern](https://www.wyssacademy.org/) and the [Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/), I studied the potential hydrological co-benefits of nature-based approaches, which play a key role in climate mitigation and adaptation. 
 
-I obtained my PhD at the [Department of Hydrology and Hydraulic Engineering](https://www.hydr.vub.be/), Vrije Universiteit Brussel, funded by a personal PhD fellowship from the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), in which I investigated the role of reservoirs in a changing climate.  
-
-{{< icon name="download" pack="fas" >}} You can find the PhD thesis {{< staticref "uploads/Vanderkelen_Inne_PhD_Thesis.pdf" "newtab" >}} here{{< /staticref >}}.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_website.pdf" "newtab" >}}CV{{< /staticref >}}.
+I obtained my PhD at the [Department of Hydrology and Hydraulic Engineering](https://www.hydr.vub.be/), Vrije Universiteit Brussel, funded by a personal PhD fellowship from the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), in which I investigated the role of reservoirs in a changing climate.  {{< icon name="download" pack="fas" >}}. Download my PhD thesis {{< staticref "uploads/Vanderkelen_Inne_PhD_Thesis.pdf" "newtab" >}} here{{< /staticref >}}.
 
 <meta name="google-site-verification" content="3LcHt_Yj7nMzSXDZ5a-n3OPBpiknYCwWDyOUg4sxBlo" />
