@@ -78,7 +78,7 @@ I am Inne Vanderkelen, a climate scientist excited about climate modelling, extr
 
 In my research, I employ climate models, like the COSMO-CLM and ALARO regional climate models to investigate potential climate adaptation options. In addition, I directly contribute to climate scenarios tailored for Belgium within the [CORDEX.be II project](https://cordex.meteo.be/).
 
-In my PhD, obtained in the [Department of Water and Climate](https://www.hydr.vub.be/) at the Vrije Universiteit Brussel, covered I investigated the role of reservoirs in a changing climate.
+I obtained my PhD in the [Department of Water and Climate](https://www.hydr.vub.be/) at the Vrije Universiteit Brussel, in which I investigated the role of reservoirs in a changing climate.
 
 During my postdoctoral position at the [Wyss Academy for Nature at the University of Bern](https://www.wyssacademy.org/) and the [Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/), I studied the potential hydrological co-benefits of nature-based approaches, which play a key role in climate mitigation and adaptation. 
 
