@@ -1,10 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Evaluation of high-resolution precipitation products over the Rwenzori Mountains
   (Uganda)
-subtitle: ''
-summary: ''
 authors:
 - Faluku Nakulopa
 - Inne Vanderkelen
@@ -15,30 +11,12 @@ authors:
 - Collins Tweheyo
 - Olivier Dewitte
 - Wim Thiery
-tags: []
-categories: []
 date: '2022-02-01'
-lastmod: 2022-05-28T15:42:09+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-05-28T13:42:07.610289Z'
+publishDate: '2024-05-15T14:01:56.822384Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Journal of Hydrometeorology*'
+doi: 10.1175/jhm-d-21-0106.1
 abstract: The Rwenzori Mountains, in southwest Uganda, are prone to precipitation-related
   hazards such as flash floods and landslides. These natural hazards highly impact
   the lives and livelihoods of the people living in the region. However, our understanding
@@ -60,6 +38,4 @@ abstract: The Rwenzori Mountains, in southwest Uganda, are prone to precipitatio
   of using IMERG and CPM precipitation estimates for hydrological and impact modeling
   over the Rwenzori mountains, preferring IMERG for precipitation totals and CPM for
   precipitation extremes.
-publication: '*Journal of Hydrometeorology*'
-doi: 10.1175/jhm-d-21-0106.1
 ---

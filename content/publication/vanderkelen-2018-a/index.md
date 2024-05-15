@@ -1,38 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Modelling the water balance of Lake Victoria (East Africa)-Part 1: Observational
   analysis'
-subtitle: ''
-summary: ''
 authors:
 - Inne Vanderkelen
 - Nicole P.M. Van Lipzig
 - Wim Thiery
-tags: []
-categories: []
 date: '2018-01-01'
-lastmod: 2021-12-24T13:01:50+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: 'Modelled and observed water level of Lake Victoria'
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-12-24T12:01:49.578405Z'
+publishDate: '2024-05-15T14:01:56.836800Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Hydrology and Earth System Sciences*'
+doi: 10.5194/hess-22-5509-2018
 abstract: Lake Victoria is the largest lake in Africa and one of the two major sources
   of the Nile river. The water level of Lake Victoria is determined by its water balance,
   consisting of precipitation on the lake, evaporation from the lake, inflow from
@@ -50,6 +28,4 @@ abstract: Lake Victoria is the largest lake in Africa and one of the two major s
   half attributed to a drought in the Lake Victoria Basin and about half to an enhanced
   outflow, highlighting the sensitivity of the lake level to human operations at the
   outflow dam.
-publication: '*Hydrology and Earth System Sciences*'
-doi: 10.5194/hess-22-5509-2018
 ---

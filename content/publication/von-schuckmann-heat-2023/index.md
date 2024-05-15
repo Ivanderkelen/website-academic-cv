@@ -70,7 +70,7 @@ authors:
 - Tonghua Wu
 - Michael Zemp
 date: '2023-04-01'
-publishDate: '2024-05-15T11:38:48.454705Z'
+publishDate: '2024-05-15T14:01:56.750530Z'
 publication_types:
 - article-journal
 publication: '*Earth System Science Data*'

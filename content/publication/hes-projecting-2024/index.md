@@ -8,7 +8,7 @@ authors:
 - Jérôme Ogée
 - Edouard L. Davin
 date: '2024-01-01'
-publishDate: '2024-05-15T11:38:48.535241Z'
+publishDate: '2024-05-15T14:01:56.876173Z'
 publication_types:
 - article-journal
 publication: '*Environmental Research Letters*'

@@ -1,9 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Global Heat Uptake by Inland Waters
-subtitle: ''
-summary: ''
 authors:
 - I. Vanderkelen
 - N. P.M. van Lipzig
@@ -24,35 +20,12 @@ authors:
 - Z. Tan
 - R. I. Woolway
 - W. Thiery
-tags:
-- heat uptake
-- inland waters
-- lakes
-- reservoirs
-- rivers
-categories: []
 date: '2020-01-01'
-lastmod: 2021-12-24T13:01:48+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: 'Heat accumulation from climate change (a) and heat redistribution through reservoir expansion (b)'
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-12-24T12:01:48.150845Z'
+publishDate: '2024-05-15T14:01:56.859337Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Geophysical Research Letters*'
+doi: 10.1029/2020GL087867
 abstract: Heat uptake is a key variable for understanding the Earth system response
   to greenhouse gas forcing. Despite the importance of this heat budget, heat uptake
   by inland waters has so far not been quantified. Here we use a unique combination
@@ -65,6 +38,10 @@ abstract: Heat uptake is a key variable for understanding the Earth system respo
   stored in artificial reservoirs exceeds inland water heat uptake by a factor ∼10.4.
   This first quantification underlines that the heat uptake by inland waters is relatively
   small, but non-negligible.
-publication: '*Geophysical Research Letters*'
-doi: 10.1029/2020GL087867
+tags:
+- lakes
+- reservoirs
+- heat uptake
+- inland waters
+- rivers
 ---

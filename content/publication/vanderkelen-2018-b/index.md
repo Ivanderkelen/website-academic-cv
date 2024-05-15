@@ -1,37 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Modelling the water balance of Lake Victoria (East Africa)-Part 2: Future projections'
-subtitle: ''
-summary: ''
+title: 'Modelling the water balance of Lake Victoria (East Africa)-Part 2: Future
+  projections'
 authors:
 - Inne Vanderkelen
 - Nicole P.M. Van Lipzig
 - Wim Thiery
-tags: []
-categories: []
 date: '2018-10-01'
-lastmod: 2021-12-24T13:01:51+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: 'Future lake level projections along CORDEX simulations and dam mgmt scenarios'
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-12-24T12:01:51.018925Z'
+publishDate: '2024-05-15T14:01:56.851727Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Hydrology and Earth System Sciences*'
+doi: 10.5194/hess-22-5527-2018
 abstract: Lake Victoria, the second largest freshwater lake in the world, is one of
   the major sources of the Nile river. The outlet to the Nile is controlled by two
   hydropower dams of which the allowed discharge is dictated by the Agreed Curve,
@@ -61,6 +40,4 @@ abstract: Lake Victoria, the second largest freshwater lake in the world, is one
   Curve is a key prerequisite for sustainable future lake levels, but that under this
   management scenario, climate change might potentially induce profound changes in
   lake level and outflow volume.
-publication: '*Hydrology and Earth System Sciences*'
-doi: 10.5194/hess-22-5527-2018
 ---

@@ -11,7 +11,7 @@ authors:
 - Sara Vicca
 - Wim Thiery
 date: '2020-07-01'
-publishDate: '2024-05-15T11:38:48.511179Z'
+publishDate: '2024-05-15T14:01:56.843698Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Biometeorology*'
