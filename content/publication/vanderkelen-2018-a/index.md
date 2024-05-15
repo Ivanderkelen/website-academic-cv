@@ -1,0 +1,31 @@
+---
+title: 'Modelling the water balance of Lake Victoria (East Africa)-Part 1: Observational
+  analysis'
+authors:
+- Inne Vanderkelen
+- Nicole P.M. Van Lipzig
+- Wim Thiery
+date: '2018-01-01'
+publishDate: '2024-05-15T14:01:56.836800Z'
+publication_types:
+- article-journal
+publication: '*Hydrology and Earth System Sciences*'
+doi: 10.5194/hess-22-5509-2018
+abstract: Lake Victoria is the largest lake in Africa and one of the two major sources
+  of the Nile river. The water level of Lake Victoria is determined by its water balance,
+  consisting of precipitation on the lake, evaporation from the lake, inflow from
+  tributary rivers and lake outflow, controlled by two hydropower dams. Due to a scarcity
+  of in situ observations, previous estimates of individual water balance terms are
+  characterized by substantial uncertainties, which means that the water balance is
+  often not closed independently. In this first part of a two-paper series, we present
+  a water balance model for Lake Victoria, using state-of-the-art remote sensing observations,
+  high-resolution reanalysis downscaling and outflow values recorded at the dam. The
+  uncalibrated computation of the individual water balance terms yields lake level
+  fluctuations that closely match the levels retrieved from satellite altimetry. Precipitation
+  is the main cause of seasonal and interannual lake level fluctuations, and on average
+  causes the lake level to rise from May to July and to fall from August to December.
+  Finally, our results indicate that the 2004-2005 drop in lake level can be about
+  half attributed to a drought in the Lake Victoria Basin and about half to an enhanced
+  outflow, highlighting the sensitivity of the lake level to human operations at the
+  outflow dam.
+---
