@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! I am Inne Vanderkelen, a climate scientist excited about climate modelling, extreme events, climate change impacts, adaptation and nature-based solutions and water resources. Currently, I am working as a [Fed-tWIN](https://www.belspo.be/belspo/research/FEDtWIN_en.stm) researcher at the Department of Earth and Environmental Sciences at KU Leuven and the Royal Meteorological Institute of Belgium (KMI). 
+I am Inne Vanderkelen, a climate scientist excited about climate modelling, extreme events, climate change impacts, adaptation and nature-based solutions and water resources. Currently, I am working as a [Fed-tWIN](https://www.belspo.be/belspo/research/FEDtWIN_en.stm) researcher at the Department of Earth and Environmental Sciences at KU Leuven and the Royal Meteorological Institute of Belgium (KMI). 
 
 In my research, I employ climate models, like the COSMO-CLM and ALARO regional climate models to investigate potential climate adaptation options. In addition, I directly contribute to climate scenarios tailored for Belgium within the [CORDEX.be II project](https://cordex.meteo.be/), thereby contributing to improved risk assessments.
 
